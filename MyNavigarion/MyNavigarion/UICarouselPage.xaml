@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms" 
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+xmlns:me="clr-namespace:MyNavigarion;assembly=MyNavigarion"
+x:Class="MyNavigarion.UICarouselPage">
+	<CarouselPage.Children>
+		<ContentPage BackgroundColor="Aqua" Title="Pagina 1">
+			<ContentPage.Content>
+				<Label Text="Pagina 1" TextColor="White"></Label>
+			</ContentPage.Content>
+		</ContentPage>
+
+		<ContentPage BackgroundColor="Red" Title="Pagina 2">
+			<ContentPage.Content>
+				<Label Text="Pagina 2" TextColor="White"></Label>
+			</ContentPage.Content>
+		</ContentPage>
+
+		<ContentPage BackgroundColor="Aqua" Title="Pagina 1">
+			<ContentPage.Content>
+				<Label Text="Pagina 1" TextColor="White"></Label>
+			</ContentPage.Content>
+		</ContentPage>
+
+		<ContentPage BackgroundColor="Red" Title="Pagina 2">
+			<ContentPage.Content>
+				<Label Text="Pagina 2" TextColor="White"></Label>
+			</ContentPage.Content>
+		</ContentPage>
+
+		<me:Page4 />
+	</CarouselPage.Children>
+</CarouselPage>

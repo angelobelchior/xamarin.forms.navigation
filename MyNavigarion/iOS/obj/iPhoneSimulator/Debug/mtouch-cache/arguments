@@ -1,0 +1,35 @@
+# Version: 8.4.0.47 (7244769)
+# [first argument, ignore] # /Users/User/Projects/MyNavigarion/iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.47/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/User/Projects/MyNavigarion/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/User/Projects/MyNavigarion/iOS/bin/iPhoneSimulator/Debug/MyNavigarioniOS.app \
+	-r \
+	/Users/User/Projects/MyNavigarion/MyNavigarion/bin/Debug/MyNavigarion.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/User/Projects/MyNavigarion/iOS/../packages/Xamarin.Forms.1.0.6186/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.dll \
+	-r \
+	/Users/User/Projects/MyNavigarion/iOS/../packages/Xamarin.Forms.1.0.6186/lib/MonoTouch10/Xamarin.Forms.Core.dll \
+	-r \
+	/Users/User/Projects/MyNavigarion/iOS/../packages/Xamarin.Forms.1.0.6186/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	8.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/User/Projects/MyNavigarion/iOS/bin/iPhoneSimulator/Debug/MyNavigarioniOS.exe \

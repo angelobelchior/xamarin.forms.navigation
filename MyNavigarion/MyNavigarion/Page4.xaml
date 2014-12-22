@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+x:Class="MyNavigarion.Page4"
+Title="Pagina 4"
+Icon="d.png"
+BackgroundColor="Green">
+	<ContentPage.Content>
+				<Label Text="Pagina 4" TextColor="White"></Label>
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,15 @@
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/MyNavigarion.UIContentPage.xaml
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/UIContentPage.xaml.g.cs
+/Users/User/Projects/MyNavigarion/MyNavigarion/bin/Debug/MyNavigarion.dll.mdb
+/Users/User/Projects/MyNavigarion/MyNavigarion/bin/Debug/MyNavigarion.dll
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/MyNavigarion.dll
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/MyNavigarion.dll.mdb
+/Users/User/Projects/MyNavigarion/MyNavigarion/bin/Debug/Xamarin.Forms.Core.dll
+/Users/User/Projects/MyNavigarion/MyNavigarion/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/MyNavigarion.UITabbedPage.xaml
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/UITabbedPage.xaml.g.cs
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/MyNavigarion.Page4.xaml
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/Page4.xaml.g.cs
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/MyNavigarion.UICarouselPage.xaml
+/Users/User/Projects/MyNavigarion/MyNavigarion/obj/Debug/UICarouselPage.xaml.g.cs
